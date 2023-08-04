@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+#title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    color: cornflowerblue;
+}
+
+.big-container{
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
